@@ -64,6 +64,8 @@ HR { color: #000000 }
 
 ul li.pub { padding-bottom: 10px; }
 
+.chiu-photo { border: 1pt solid black; border-radius: 10%; }
+
 .lab-name-1 { font-size: 18pt; }
 .lab-name-2 { font-size: 16pt; }
 
