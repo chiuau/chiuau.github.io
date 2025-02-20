@@ -1,0 +1,6 @@
+@inproceedings{bib:Au25Contingency,
+    Author = {Tsz-Chiu Au},
+    Booktitle = {IEEE International Conference on Robotics and Automation},
+    Title = {Contingency Formation Planning for Interactive Drone Light Shows},
+    Year = {2025},
+}
