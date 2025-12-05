@@ -1,0 +1,6 @@
+@inproceedings{bib:Zaman25queue,
+    Author = {Tameem Uz Zaman and Arturo Gonzalez and Tsz-Chiu Au and Qi Lu},
+    Booktitle = {IEEE International Symposium on Multi-Robot & Multi-Agent Systems (MRS)},
+    Title = {Queue-Based Traffic Management for Collision Reduction in Scalable Swarm Foraging},
+    Year = {2025},
+}
